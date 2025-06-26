@@ -14,6 +14,9 @@
      
 ## Capturas de Tela
 ### Dashboard
-![](https://github.com/DanielMaciel89/-Criando-Um-Organizador-de-Declara-o-de-Imposto-de-Renda/blob/main/images/CAP2.png)
+#### Anual
+![](https://github.com/DanielMaciel89/DashboardVendasXbox/blob/main/Imagens/Captura%20de%20tela%202025-06-26%20190523.png)
+#### Mensal
+![](https://github.com/DanielMaciel89/DashboardVendasXbox/blob/main/Imagens/Captura%20de%20tela%202025-06-26%20190511.png)
 
 
